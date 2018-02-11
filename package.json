@@ -1,0 +1,24 @@
+{
+  "name": "react-animated-collection",
+  "version": "1.0.0",
+  "description": "Augment a collection of components to animate during mounting and dismounting",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dan Applegate <applegatedt@gmail.com> (http://danapplegate.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@sambego/storybook-state": "^1.0.6",
+    "@storybook/react": "^3.3.12",
+    "babel-core": "^6.26.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
